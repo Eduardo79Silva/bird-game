@@ -13,42 +13,42 @@ Sources of the additional tree textures:
 
 Screenshot 1 - Sphere
 
-![1-Sphere](Screenshots/project-t6g11-1.png) 
+![1-Sphere](project/Screenshots/project-t6g11-1.png) 
 
 ---
 
 Screenshot 2 - Panorama view
 
-![2-Panorama](Screenshots/project-t6g11-2.png) 
+![2-Panorama](project/Screenshots/project-t6g11-2.png) 
 
 ---
 
 Screenshot 3 - Bird
 
-![3-Bird](Screenshots/project-t6g11-3.png) 
+![3-Bird](project/Screenshots/project-t6g11-3.png) 
 
 ---
 
 Screenshot 4 - Terrain with bird and background
 
-![4-Terrain_Bg_Bird](Screenshots/project-t6g11-4.png) 
+![4-Terrain_Bg_Bird](project/Screenshots/project-t6g11-4.png) 
 
 ---
 
 Screenshot 5 - Eggs and nest
 
-![5-Eggs_Nest](Screenshots/project-t6g11-5.png) 
+![5-Eggs_Nest](project/Screenshots/project-t6g11-5.png) 
 
 ---
 
 Screenshot 6 - Trees
 
-![6-Trees](Screenshots/project-t6g11-6.png)
+![6-Trees](project/Screenshots/project-t6g11-6.png)
 
 ---
 
 Screenshot 7 - Final
 
-![6-Trees](Screenshots/project-t6g11-7.png)
+![6-Trees](project/Screenshots/project-t6g11-7.png)
 
 ---
