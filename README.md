@@ -56,20 +56,6 @@ Modern web browser with WebGL 2.0 support:
 2. Navigate to the project directory
 4. Open `index.html` in your browser
 
-### Project Structure
-
-```
-project/
-├── index.html
-├── shaders/
-│   ├── terrain.vert
-│   └── terrain.frag
-├── images/
-├── main.js
-└── [additional modules]
-└── Screenshots/
-```
-
 ## Technical Implementation
 
 **WebGL Pipeline**  
